@@ -1,9 +1,10 @@
 # Links link
 ## Class
-* [pygame with classes](https://replit.com/team/CS9-Block1-2122/pygame-with-classes)
+* [Game](https://replit.com/team/CS9-Block1-2122/Game)
 
 
 ## Old
+* [pygame with classes](https://replit.com/team/CS9-Block1-2122/pygame-with-classes)
 * [pygame](https://replit.com/team/CS9-Block1-2122/pygame)
 * [Extra/0](https://replit.com/team/CS9-Block1-2122/0)
 ## Resources
