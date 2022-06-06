@@ -1,9 +1,6 @@
 # Links link
 ## Class
-Choose one:
-* [Neural networks](https://replit.com/team/CS9-Block1-2122/First-NN)
-* [Cipher](https://replit.com/team/CS9-Block1-2122/Cipher)
-* [Discord bot](https://replit.com/team/CS9-Block1-2122/Discord-bot)
+* [Reflection](https://forms.gle/c17Wbb8pewgRyepV8)
 
 ## Old
 * [Game](https://replit.com/team/CS9-Block1-2122/Game)
